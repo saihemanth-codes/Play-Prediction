@@ -18,7 +18,6 @@ The dataset (`NFL 2024.csv`) contains detailed play-by-play data from NFL games 
 - Play outcomes (rush, pass, touchdown, sack, etc.)
 - Penalty information
 
-[Dataset Link](https://github.com/saihemanth-codes/nfl-play-prediction/blob/main/NFL%202024.csv)
 
 ## Model
 
@@ -28,7 +27,6 @@ The prediction model (`play_prediction.py`) uses:
 - Pipeline for preprocessing and model training
 - Evaluation metrics including accuracy score and confusion matrix
 
-[Code Link](https://github.com/saihemanth-codes/nfl-play-prediction/blob/main/play_prediction.py)
 
 ## Features
 
